@@ -4,7 +4,7 @@
     background-color: olive;
     position: relative;
     animation-name: square;
-    animation-duration: 4s;
+    animation-duration: 5s;
     animation-timing-function: linear;
     animation-delay: 2s;
     -o-animation-iteration-count: infinite;
